@@ -1,0 +1,14 @@
+public class Assignment7 {
+	public static void main() {
+
+	int x = 7 + 3 * 6 / 2 - 1;
+	int x = 2 % 2 + 2 * 2 - 2 / 2;
+	int x = (3 * 9 * (3 + (9 * 3 / (3))));
+
+	int x = 6/2 * 3 + 7 - 1; x = 15
+	int x = 1 + 4 - 1; x = 4
+	int x = (27 * (3 + (27/(3))) = 27 * (3 + 9) = 27 * 12 = x 
+
+
+	}
+}
